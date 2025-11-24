@@ -11,6 +11,7 @@ body {
   background-color: blue;
   color: white;
   border: none;
-  width: 599px;
+  width: 100px;
   height: 60px;
+  border-radius: 30px;
 }
