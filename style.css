@@ -11,7 +11,7 @@ body {
   background-color: blue;
   color: white;
   border: none;
-  border-radius: 50%;
+  border-radius: 30px;
   width: 599px;
   height: 60px;
 }
