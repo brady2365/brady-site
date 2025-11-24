@@ -1,7 +1,5 @@
 
 
-.click-button {
-  background-color: blue;
 
 
 
@@ -9,7 +7,6 @@ body {
   text-align: center;
   font-family: Arial;
 }
-button {
-  padding: 12px 20px;
-  font-size: 20px;
+.click-button {
+  background-color: blue;
 }
