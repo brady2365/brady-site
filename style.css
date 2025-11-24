@@ -9,4 +9,7 @@ body {
 }
 .click-button {
   background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 50%;
 }
